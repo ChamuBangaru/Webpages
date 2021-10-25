@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Lobster&display=swap');
+
+  body{
+    background-color: hotpink;
+  }
+
+
+.container
+{
+  font-family: 'Lobster', cursive;
+  max-width: 1080px;
+  width:90%;
+  margin: auto;
+}
+
+
+header{
+  border-bottom:solid blue 2px;
+  border:dashed black 2px;
+  outline:yellow solid 5px;
+  background-color: blue;
+/*
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  */
+  margin:10px 30px 20px 50px;
+  padding:30px 10px 20px 50px;
+  height:200px;
+
+}
+.lHeight{
+  line-height: 50px;
+
+}
+
+span{
+
+}
+#top{
+  font: italic 25px bold fantasy;
+}
+
+
+#brown{
+  font: italic 25px bold fantasy;
+
+}
+.testText{
+  text-align: center;
+  text-shadow: black 8px 9px 14px;
+}
+.red{
+  color:red;
+}
+.powderblue{
+  color:hotpink;
+}
+.highlight{
+  background-color:#54676e;
+}

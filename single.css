@@ -1,0 +1,125 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+ body{
+
+  margin:();
+  padding:();
+  width:100%;
+  font-family: 'Roboto Slab', serif;
+}
+#mast{
+  width: 100%;
+  background-color:#D291BC;
+  height: 50px;
+  margin-top: 20px;
+  position:fixed;
+}
+.container{
+  max-width:1040px;
+
+  margin:0 auto;
+
+
+}
+.section{
+  border:1px solid #ddd;
+  min-height: 500px;
+  background-color: #fff;
+}
+
+#nav ul{
+  list-style:none;
+  margin: auto;
+  display: block;
+  }
+
+  #nav li{
+  float: left;
+  padding:10px;
+  border: 2px solid yellow;
+  background-color: black;
+  margin:2px;
+  }
+
+  #nav{
+      float: right;
+      margin-top: 5px;
+
+
+
+  }
+
+  #nav li a{
+    text-decoration: none;
+    padding: 1em;
+    color:white
+    float:right;
+
+
+  }
+
+  #nav li a:hover{
+    color:pink;
+  }
+  .clear{
+    clear:both;
+  }
+
+  .wrap{
+    background-color: rgba(200,200,200);
+    background-color: rgb(200,200,200,0.5);
+    border-radius: 20px;
+    padding:30px;
+    margin:40px auto;
+    width:70%;
+
+  }
+  #section1.wrap{
+    margin-top:90px;
+
+  }
+
+
+  }
+
+
+
+#section1{
+  background: url('http://placeimg.com/1000/155/nature');
+background-size: cover;
+
+}
+#section2{
+
+background: url('http://placeimg.com/1000/80/tech');
+
+}
+#section3{
+background:url('http://placeimg.com/1000/188/arch');
+background-size: cover;
+}
+#section4{
+background:url('http://placeimg.com/1000/188/nature')
+}
+#section5{
+background:url('http://placeimg.com/1000/188/animals')
+}
+#section6{
+background:url('http://placeimg.com/1000/144/arch')
+}
+#footer{
+  background-color: #333;
+  color:white;
+  padding:20px;
+
+}
+
+.col-1{
+  width:66%;
+  display:inline-block;
+
+}
+
+.col-2{
+  width:33%;
+
+}
